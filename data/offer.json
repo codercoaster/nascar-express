@@ -1,0 +1,10 @@
+{
+  "active": true,
+  "title": "Servicio de Mantención",
+  "discount": 20,
+  "brands": ["Citroën", "Peugeot"],
+  "description": "Esta semana es para tu Citroën o Peugeot: mantención de calidad con 20% de descuento.",
+  "validUntil": "",
+  "cta": "Quiero tomar el descuento",
+  "whatsappText": "Hola, Nascar Express. Deseo obtener la Oferta de la semana (Servicio de Mantención) para mi vehículo. Mi nombre es:"
+}
